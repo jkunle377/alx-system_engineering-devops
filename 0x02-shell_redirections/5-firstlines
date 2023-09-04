@@ -1,2 +1,2 @@
 #!/bin/bash
-head /etc/passwrd
+head +10 /etc/passwrd
