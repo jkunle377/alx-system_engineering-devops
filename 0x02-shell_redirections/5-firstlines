@@ -1,2 +1,2 @@
 #!/bin/bash
-head +10 /etc/passwrd
+head +10 /etc/passwrd | cat -n
